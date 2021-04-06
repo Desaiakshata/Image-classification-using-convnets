@@ -1,7 +1,9 @@
 # Image-classification-using-convnets
 ---
 Dog vs Cat - Convolutional neural networks (Exercise taken from a book)
+
 Folow along the code in the notebook to implement convolutional neural networks to classify dog vs cat images
+
 Create 3 data directories: train, validation, test as follows
 ```
 train
