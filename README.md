@@ -8,11 +8,14 @@ train
     |
     |--Cats
     |--Dogs
-    
+```
+```
 validation
          |
          |--Cats
-         |--Dogs      
+         |--Dogs     
+```
+```
 test
    |
    |--Cats
